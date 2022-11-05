@@ -1,0 +1,6 @@
+# Terraform generates
+.terraform
+.terraform.lock.hcl
+
+# GCP service account
+gcp-terraform-service.json
